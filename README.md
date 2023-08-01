@@ -1,3 +1,3 @@
 # nikel
 
-projeto desenvolvido durante semana de programacao da GrowDev
+Projeto para controle de entrada e saida monetaria desenvolvido durante semana de programação da GrowDev
